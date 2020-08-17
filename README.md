@@ -6,4 +6,4 @@ SparkFun Keypad
 SD Card Reader for aruino
 
 ## connections
-![alt text](https://github.com/Havivw/FakeKeyPad/blob/master/Diagrems/FakeKeyPad.jpg?raw=true)
+![alt text](https://github.com/Havivw/FakeKeyPad/blob/master/Diagrems/FakeKeyPad.png?raw=true)
